@@ -18,7 +18,7 @@ Key Features:
 ## 🛠 Installation
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/apple-stock-prediction.git
+git clone https://github.com/vinuvii/Apple-Stock-Prediction.git
 cd apple-stock-prediction
 ```
 
